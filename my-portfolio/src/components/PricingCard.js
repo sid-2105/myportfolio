@@ -9,7 +9,7 @@ const PricingCard = () => {
           <div className="card">
                <h3>Premium</h3>
                <span className="bar"></span>
-               <p className="btc">$200</p>
+               <p className="btc">NA</p>
                <p>5 days</p>
                <p>Featured</p>
                <p>Responsive Design</p>
@@ -20,7 +20,7 @@ const PricingCard = () => {
           <div className="card">
                <h3>Business</h3>
                <span className="bar"></span>
-               <p className="btc">$300</p>
+               <p className="btc">NA</p>
                <p>8 days</p>
                <p>Featured</p>
                <p>Responsive Design</p>
@@ -31,7 +31,7 @@ const PricingCard = () => {
           <div className="card">
                <h3>Basics</h3>
                <span className="bar"></span>
-               <p className="btc">$100</p>
+               <p className="btc">NA</p>
                <p>3 days</p>
                <p>Featured</p>
                <p>Responsive Design</p>

@@ -1105,7 +1105,7 @@ const PricingCard = () => {
           columnNumber: 16
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("p", {
           className: "btc",
-          children: "$200"
+          children: "NA"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 12,
@@ -1157,7 +1157,7 @@ const PricingCard = () => {
           columnNumber: 16
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("p", {
           className: "btc",
-          children: "$300"
+          children: "NA"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 23,
@@ -1209,7 +1209,7 @@ const PricingCard = () => {
           columnNumber: 16
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxDEV)("p", {
           className: "btc",
-          children: "$100"
+          children: "NA"
         }, void 0, false, {
           fileName: _jsxFileName,
           lineNumber: 34,
@@ -75507,7 +75507,7 @@ if (true) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("1c26cbc5b7c35ae2fc56")
+/******/ 		__webpack_require__.h = () => ("bc2b5ef1296843836436")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
