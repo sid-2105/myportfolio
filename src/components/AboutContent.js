@@ -2,7 +2,7 @@ import "./AboutContentStyle.css"
 import React from 'react'
 import { Link } from "react-router-dom"
 import Agile from "../assets/Agile.jpg"
-import inter from "../assets/inter.png"
+import adv from "../assets/advanced.png"
 
 const AboutContent = () => {
   return (
@@ -20,7 +20,7 @@ const AboutContent = () => {
                     <img src={Agile} className="img" alt="true"/>
                </div>
                <div className="img-stack top">
-                    <img src={inter} className="img" alt="true"/>
+                    <img src={adv} className="img" alt="true"/>
                </div>
           </div>
      </div>
