@@ -35,7 +35,7 @@ const footer = () => {
         </div>
         <div className="right">
           <h4>About me</h4>
-          <p>This is me Siddharth Mishra, persuing Bachelor of Technology in specialization with Computer Science and Engineering.Programming languages known Java, C, Python, HTML, CSS etc.</p>
+          <p>This is me Siddharth Mishra, persuing Bachelor of Technology in specialization with Computer Science and Engineering.Programming languages known Java, C, Python, Node, React, HTML, CSS etc.</p>
           <div className="social">
             <a href="https://twitter.com/Siddhu0509?t=QTCaR_p09WzsFXq1_LwDIQ&s=08">
             <FaTwitter

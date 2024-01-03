@@ -9,7 +9,7 @@ const AboutContent = () => {
     <div className="about">
      <div className="left">
           <h1>Who AM I?</h1>
-          <p>I am an agile and Java developer. I currently create apps in Mendix. </p>
+          <p>I am an agile and Java developer. I currently create apps in Mendix, Java, Nodejs. </p>
           <Link to="/contact">
                <button className="btn">Contact</button>
           </Link>

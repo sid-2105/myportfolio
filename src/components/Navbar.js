@@ -41,8 +41,6 @@ const Navbar = () => {
      </ul>
      <div class="hamburger" onClick={handleClick}>
           {click?( <FaTimes size={20} style={{color:"white"}}/>):(<FaBars size={20} style={{color:"white"}}/>)}
-         
-          
      </div>
     
     </div>
