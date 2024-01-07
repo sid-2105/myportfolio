@@ -12,15 +12,15 @@ const ProjectCardData=[
           view:"https://guider-sandbox.mxapps.io/"
      },
      {
-          imgsrc: Academy,
-          title:"Academy App",
-          text:"It is a academy  app helps students and teachers to manage their training event, courses, location etc in effective manner",
-          view:"https://guider-sandbox.mxapps.io/"
-     },
-     {
           imgsrc: tours,
           title:"RS Tours and Travels",
           text:"It is a tours and travels app helps traveller to book their cars venue etc in very easy way ",
+          view:"https://guider-sandbox.mxapps.io/"
+     },
+     {
+          imgsrc: Academy,
+          title:"Academy App",
+          text:"It is a academy  app helps students and teachers to manage their training event, courses, location etc in effective manner",
           view:"https://guider-sandbox.mxapps.io/"
      },
 
@@ -28,14 +28,16 @@ const ProjectCardData=[
           imgsrc: chat,
           title:"ChatFusion",
           text:"It is a chat app with interactive user experience.",
-          view:"https://guider-sandbox.mxapps.io/"
+          view:"https://guider-sandbox.mxapps.io/",
+          source:"https://github.com/sid-2105/chat-app"
      },
 
      {
           imgsrc: weather,
           title:"Atmosense",
           text:"It is a weather forecasting app.  ",
-          view:"https://guider-sandbox.mxapps.io/"
+          view:"https://guider-sandbox.mxapps.io/",
+          source:"https://github.com/sid-2105/weather-app"
      },
 
 
